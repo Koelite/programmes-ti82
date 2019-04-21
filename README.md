@@ -6,7 +6,14 @@ I. INSTALLATION DE PROGRAMMES
 
 Pour installer un programme sur votre calculatrice, il vous faut Ti Connect CE disponible ici : https://education.ti.com/fr/software/details/en/13312f7cec074a2dafd7ee5646129839/swticonnectcesoftwareforwindows.  
 (Cliquez ici si vous voulez directement le télécharger : https://education.ti.com/download/en/ed-tech/13312F7CEC074A2DAFD7EE5646129839/02FE43EDD895403AA8756546595EC371/TIConnectCE-5.3.5.924.exe).  
-Sur Ti Connect CE, branchez votre calculatrice, allez dans l'onglet "Editeur de programmes" (à gauche), cliquez sur "Ouvrir le progamme", sélectionnez le programme que vous souhaitez installer, cliquez sur "Actions" (en haut), puis sur "Envoyer aux calculatrices...", sélectionnez la calculatrice et cliquez sur "Envoyer". /!\ La calculatrice doit être allumée.
+* Branchez votre calculatrice
+* Sur Ti Connect CE, allez dans l'onglet "Editeur de programmes" (à gauche)
+* Cliquez sur "Ouvrir le progamme"
+* Sélectionnez le programme que vous souhaitez installer
+* Cliquez sur "Actions" (en haut), puis sur "Envoyer aux calculatrices..."
+* Sélectionnez la calculatrice
+* Cliquez sur "Envoyer".
+*/!\ La calculatrice doit être allumée.*
 
 
 II. CONVSTR

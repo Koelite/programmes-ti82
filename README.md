@@ -31,7 +31,7 @@ Mémoire RAM nécéssaire : 68
 
 <h3>4. INSTALLATION.</h3>
 
-Voir I. INSTALLATION DE PROGRAMMES
+Voir [I. INSTALLATION DE PROGRAMMES](https://github.com/Koelite/programmes-ti82/blob/master/README.md#i-installation-de-programmes)
 
 III. RACINE 2.0
 =======================================================================
@@ -59,7 +59,7 @@ Mémoire RAM nécéssaire : 1493
 
 <h3>4. INSTALLATION.</h3>
 
-Voir I. INSTALLATION DE PROGRAMMES
+Voir [I. INSTALLATION DE PROGRAMMES](https://github.com/Koelite/programmes-ti82/blob/master/README.md#i-installation-de-programmes)
 
 <h3>5. SIGNALER UN PROBLEME.</h3>
 

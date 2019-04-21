@@ -13,7 +13,7 @@ Pour installer un programme sur votre calculatrice, il vous faut Ti Connect CE d
 * Cliquez sur "Actions" (en haut), puis sur "Envoyer aux calculatrices..."
 * Sélectionnez la calculatrice
 * Cliquez sur "Envoyer".  
-**/!\ La calculatrice doit être allumée.**
+><h3>/!\ La calculatrice doit être allumée.</h3>
 
 
 II. CONVSTR

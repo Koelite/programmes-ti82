@@ -12,15 +12,15 @@ Sur Ti Connect CE, branchez votre calculatrice, allez dans l'onglet "Editeur de 
 II. CONVSTR
 =======================================================================
 
-###1. PRINCIPE.
+<h3>1. PRINCIPE.
 
 Ce programme permet de convertir un nombre en une chaîne de caractères. Si cela paraît abstrait pour vous, il est pourtant indispensable pour afficher les résultats de mes programmes.
 
-###2. CARACTERISTIQUES.
+<h3>2. CARACTERISTIQUES.
 
 Mémoire RAM nécéssaire : 68
 
-###3. TELECHARGEMENT.
+<h3>3. TELECHARGEMENT.
 
 Méthode 1 : Télécharger directement le fichier sur https://bit.ly/CONVSTR.  
 Méthode 2 : Télécharger le raw sur https://pastebin.com/6fPTyygh puis renommer l'extension .txt en .8xp. Cela nécessite d'afficher l'extension des fichiers au préalable. Pour ce faire :  
@@ -28,26 +28,26 @@ Méthode 2 : Télécharger le raw sur https://pastebin.com/6fPTyygh puis renomme
 - Cliquer sur "Afficher les fichiers et dossiers cachés"
 - Dans l'onglet Affichage, dans Paramètres avancés, décocher la case "Masquer les extensions des fichiers dont le type est connu".
 
-###4. INSTALLATION.
+<h3>4. INSTALLATION.
 
 Voir I. INSTALLATION DE PROGRAMMES
 
 III. RACINE 2.0
 =======================================================================
 
-###1. PRINCIPE.
+<h3>1. PRINCIPE.
 
 Ce programme permet de simplifier toutes les racines carrées avec une très grande capacité, y compris sous forme d'écritures fractionnaires.  
 Exemples :  
 √(384) = 8√(6)  
 √(0.488/2) = √(61/10)/5
 
-###2. CARACTERISTIQUES.
+<h3>2. CARACTERISTIQUES.
 
 CE PROGRAMME NECESSITE UN AUTRE PROGRAMME APPELE CONVSTR.  
 Mémoire RAM nécéssaire : 1493
 
-###3. TELECHARGEMENT.
+<h3>3. TELECHARGEMENT.
 
 Méthode 1 : Télécharger directement le fichier sur https://bit.ly/RACINE2_0.  
 Méthode 2 : Télécharger le raw sur https://pastebin.com/TBmuvwuA puis renommer l'extension .txt en .8xp. Cela nécessite d'afficher l'extension des fichiers au préalable. Pour ce faire :  
@@ -55,10 +55,10 @@ Méthode 2 : Télécharger le raw sur https://pastebin.com/TBmuvwuA puis renomme
 - Cliquer sur "Afficher les fichiers et dossiers cachés"
 - Dans l'onglet Affichage, dans Paramètres avancés, décocher la case "Masquer les extensions des fichiers dont le type est connu".
 
-###4. INSTALLATION.
+<h3>4. INSTALLATION.
 
 Voir I. INSTALLATION DE PROGRAMMES
 
-###5. SIGNALER UN PROBLEME.
+<h3>5. SIGNALER UN PROBLEME.
 
 Pour signaler une erreur, une faute, ou tout autre problème, n'hésitez pas à me contacter.

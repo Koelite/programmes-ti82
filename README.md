@@ -25,9 +25,9 @@ Mémoire RAM nécéssaire : 68
 * Méthode 1 (recommandé) : Télécharger directement le fichier [CONVSTR](https://github.com/Koelite/programmes-ti82/raw/master/CONVSTR.8xp).
 * Méthode 2 : Télécharger directement le fichier sur https://bit.ly/CONVSTR.  
 * Méthode 3 : Télécharger le raw sur https://pastebin.com/6fPTyygh puis renommer l'extension .txt en .8xp. Cela nécessite d'afficher l'extension des fichiers au préalable. Pour ce faire :  
-- Rechercher dans le Menu Démarrer "dossiers cachés"
-- Cliquer sur "Afficher les fichiers et dossiers cachés"
-- Dans l'onglet Affichage, dans Paramètres avancés, décocher la case "Masquer les extensions des fichiers dont le type est connu".
+`* Rechercher dans le Menu Démarrer "dossiers cachés"`
+`* Cliquer sur "Afficher les fichiers et dossiers cachés"`
+`* Dans l'onglet Affichage, dans Paramètres avancés, décocher la case "Masquer les extensions des fichiers dont le type est connu".`
 
 <h3>4. INSTALLATION.</h3>
 
@@ -53,9 +53,9 @@ Mémoire RAM nécéssaire : 1493
 * Méthode 1 (recommandé) : Télécharger directement le fichier [RACINE 2.0](https://github.com/Koelite/programmes-ti82/raw/master/RACINE%202.0.8xp).
 * Méthode 2 : Télécharger directement le fichier sur https://bit.ly/RACINE2_0.  
 * Méthode 3 : Télécharger le raw sur https://pastebin.com/TBmuvwuA puis renommer l'extension .txt en .8xp. Cela nécessite d'afficher l'extension des fichiers au préalable. Pour ce faire :  
-- Rechercher dans le Menu Démarrer "dossiers cachés"
-- Cliquer sur "Afficher les fichiers et dossiers cachés"
-- Dans l'onglet Affichage, dans Paramètres avancés, décocher la case "Masquer les extensions des fichiers dont le type est connu".
+`* Rechercher dans le Menu Démarrer "dossiers cachés"`
+`* Cliquer sur "Afficher les fichiers et dossiers cachés"`
+`* Dans l'onglet Affichage, dans Paramètres avancés, décocher la case "Masquer les extensions des fichiers dont le type est connu".`
 
 <h3>4. INSTALLATION.</h3>
 

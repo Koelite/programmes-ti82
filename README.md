@@ -57,8 +57,8 @@ Mémoire RAM nécéssaire : 2064
 
 <h3>3. TELECHARGEMENT.</h3>
 
-* Méthode 1 (recommandé) : Télécharger directement le fichier [RACINE 3.1](https://github.com/Koelite/programmes-ti82/raw/master/RACINE%203.1.8xp).
-* Méthode 2 : Télécharger directement le fichier sur https://bit.ly/RACINE3_0.  
+* Méthode 1 (recommandé) : Télécharger directement le fichier [RACINE 3.1](https://github.com/Koelite/programmes-ti82/blob/master/RACINE%203.1.8xp).
+* Méthode 2 : Télécharger directement le fichier sur https://bit.ly/RACINE3_1.  
 
 <h3>4. INSTALLATION.</h3>
 

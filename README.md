@@ -48,21 +48,17 @@ III. RACINE 2.0
 Ce programme permet de simplifier toutes les racines carrées avec une très grande capacité, y compris sous forme d'écritures fractionnaires.  
 Exemples :  
 √(384) = 8√(6)  
-√(0.488/2) = √(61/10)/5
+√(0.488/2) = √(610)/50
 
 <h3>2. CARACTERISTIQUES.</h3>
 
 CE PROGRAMME NECESSITE UN AUTRE PROGRAMME APPELE CONVSTR.  
-Mémoire RAM nécéssaire : 1493
+Mémoire RAM nécéssaire : 2064
 
 <h3>3. TELECHARGEMENT.</h3>
 
-* Méthode 1 (recommandé) : Télécharger directement le fichier [RACINE 2.0](https://github.com/Koelite/programmes-ti82/raw/master/RACINE%202.0.8xp).
-* Méthode 2 : Télécharger directement le fichier sur https://bit.ly/RACINE2_0.  
-* Méthode 3 : Télécharger le raw sur https://pastebin.com/TBmuvwuA puis renommer l'extension .txt en .8xp. Cela nécessite d'afficher l'extension des fichiers au préalable. Pour ce faire :  
-    * Rechercher dans le Menu Démarrer "dossiers cachés"
-    * Cliquer sur "Afficher les fichiers et dossiers cachés"
-    * Dans l'onglet Affichage, dans Paramètres avancés, décocher la case "Masquer les extensions des fichiers dont le type est connu".
+* Méthode 1 (recommandé) : Télécharger directement le fichier [RACINE 3.1](https://github.com/Koelite/programmes-ti82/raw/master/RACINE%203.1.8xp).
+* Méthode 2 : Télécharger directement le fichier sur https://bit.ly/RACINE3_0.  
 
 <h3>4. INSTALLATION.</h3>
 
